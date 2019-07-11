@@ -1,0 +1,36 @@
+﻿Src,Dst,Property
+Maccount,Auditoria Woombat,Cliente
+Jhojan,Ricardo,Colega
+Militar,Auditoria Woombat,Amigo
+Cristian,Gustavo,Colega
+Microsoft Exchange,Auditoria Woombat,Cliente
+Velasquez,Gustavo,Colaborador
+Maria Jose,Auditoria Woombat,Coordinador
+Office 365,Auditoria Woombat,Cliente
+Usuarios para auditar,Auditoria Woombat,Recursos Humanos
+Jhojan,Auditoria Woombat,Empleado
+Ricardo,Auditoria Woombat,Empleado
+Cristian,Auditoria Woombat,Empleado
+Andres,Auditoria Woombat,Empleado
+Grupo de aprobadores,Auditoria Woombat,Aprobador
+Auditor sin provilegios,Auditoria Woombat,Auditor Usuarios
+Stiven,Auditoria Woombat,Empleado
+Gustavo,Auditoria Woombat,Empleado
+Maccount,Grupo de aprobadores,Cliente
+Maccount,Auditor sin provilegios,Cliente
+Maccount,Usuarios para auditar,Cliente
+Jhojan,Cristian,Colega
+Jhojan,Andres,Colega
+Jhojan,Stiven,Colega
+Jhojan,Gustavo,Colega
+Jhojan,Gustavo,Colega
+Jhojan,Maria Jose,Coordinador
+Jhojan,Usuarios para auditar,Colega
+Jhojan,Grupo de aprobadores,Colega
+Jhojan,Auditor sin provilegios,Colega
+Militar,Cristian,Tutor
+Gustavo,Ricardo,Amigo
+Ricardo,Gustavo,Amigo
+Gustavo,Andres,Colega
+Militar,Maria Jose,Funcionario
+Maria Jose,Militar,Funcionario
